@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  width: 20%;
+  margin: 0 auto 0 auto;
+  line-height: 1cm;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  color: #424874;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  padding-top: 25px;
+  color: #424874;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #A6B1E1;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+  color: grey;
+  width: 24%;
+  margin: 0 auto;
+  line-height: 0.9cm;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.display-img {
+  width: 150px;
+}
+
+.contact-img {
+  width: 100px;
+}
+
+.skill-picture {
+  width: 240px;
+}
+
+.profile-picture {
+
+  width: 150px;
+  border-radius: 50%;
+  margin-top: 100px;
+}
+
+.top-div {
+  background-color: #F4EEFF;
+  position: relative;
+  padding-top: 250px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 200px;
+}
+
+.intro {
+  width: 20%;
+  margin: 0 auto 0 auto;
+  line-height: 1cm;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.mountain {
+  position: relative;
+}
