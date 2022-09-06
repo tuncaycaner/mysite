@@ -5,17 +5,17 @@ body {
 }
 
 h1 {
-  width: 20%;
+  width: 30%;
   margin: 0 auto 0 auto;
   line-height: 1cm;
   font-family: 'Sacramento', cursive;
-  font-size: 80px;
+  font-size: 5rem;
   color: #424874;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
+  font-size: 1.25rem;
   padding-top: 25px;
   color: #424874;
 }
@@ -27,36 +27,31 @@ h3 {
 
 p {
   font-family: 'Merriweather', serif;
-  font-size: 18px;
+  font-size: 1.125rem;
   color: grey;
   width: 24%;
   margin: 0 auto;
   line-height: 0.9cm;
 }
 
-.middle-container {
+.middle-container {}
 
-}
-
-.bottom-container {
-
-}
+.bottom-container {}
 
 .display-img {
-  width: 150px;
+  width: 9.375rem;
 }
 
 .contact-img {
-  width: 100px;
+  width: 9.375rem;
 }
 
 .skill-picture {
-  width: 240px;
+  width: 15rem;
 }
 
 .profile-picture {
-
-  width: 150px;
+  width: 9.375rem;
   border-radius: 50%;
   margin-top: 100px;
 }
@@ -64,13 +59,14 @@ p {
 .top-div {
   background-color: #F4EEFF;
   position: relative;
-  padding-top: 250px;
+  padding-top: 15.625rem;
 }
 
 .top-cloud {
+  width: 10rem;
   position: absolute;
-  right: 500px;
-  top: 200px;
+  right: 31.25rem;
+  top: 8.5rem;
 }
 
 .intro {
@@ -80,11 +76,13 @@ p {
 }
 
 .bottom-cloud {
+  width: 10rem;
   position: absolute;
-  left: 500px;
-  bottom: 300px;
+  left: 31.25rem;
+  bottom: 21rem;
 }
 
 .mountain {
+  width: 40rem;
   position: relative;
 }
