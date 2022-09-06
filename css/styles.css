@@ -29,31 +29,59 @@ p {
   font-family: 'Merriweather', serif;
   font-size: 1.125rem;
   color: grey;
-  width: 24%;
+  width: 40%;
   margin: 0 auto;
   line-height: 0.9cm;
 }
 
-.middle-container {}
+.middle-container {
+  
+  margin: auto;
+  margin-bottom: 5rem;
+}
 
-.bottom-container {}
+.bottom-container {
+  margin-top: 2rem;
+}
 
 .display-img {
-  width: 9.375rem;
+  width: 12rem;
+}
+
+.skills {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
 }
 
 .contact-img {
   width: 9.375rem;
 }
 
+.skill-row {
+  width: 50%;
+  margin: auto;
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+  margin-top: 5rem;
+}
+
+.profile {
+
+  margin: auto;
+  margin-bottom: 5rem;
+}
+
 .skill-picture {
-  width: 15rem;
+  width: 20rem;
 }
 
 .profile-picture {
   width: 9.375rem;
   border-radius: 50%;
-  margin-top: 100px;
+  margin-top: 6.25rem;
 }
 
 .top-div {
@@ -62,6 +90,8 @@ p {
   padding-top: 15.625rem;
 }
 
+
+
 .top-cloud {
   width: 10rem;
   position: absolute;
@@ -69,11 +99,7 @@ p {
   top: 8.5rem;
 }
 
-.intro {
-  width: 20%;
-  margin: 0 auto 0 auto;
-  line-height: 1cm;
-}
+
 
 .bottom-cloud {
   width: 10rem;
