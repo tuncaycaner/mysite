@@ -15,7 +15,7 @@ h1 {
 
 h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.25rem;
+  font-size: 2rem;
   padding-top: 25px;
   color: #424874;
 }
@@ -29,13 +29,12 @@ p {
   font-family: 'Merriweather', serif;
   font-size: 1.125rem;
   color: grey;
-  width: 40%;
   margin: 0 auto;
-  line-height: 0.9cm;
+  line-height: 2;
 }
 
 .middle-container {
-  
+
   margin: auto;
   margin-bottom: 5rem;
 }
@@ -45,7 +44,9 @@ p {
 }
 
 .display-img {
-  width: 12rem;
+  width: 25%;
+  float: right;
+  margin-left: 50px;
 }
 
 .skills {
@@ -59,7 +60,14 @@ p {
 
 .skill-row {
   width: 50%;
-  margin: auto;
+  margin: 100px auto 150px auto;
+  text-align: left;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 100px auto 150px auto;
+  text-align: left;
 }
 
 .contact-me {
@@ -69,13 +77,16 @@ p {
 }
 
 .profile {
-
+ width: 50%;
   margin: auto;
   margin-bottom: 5rem;
 }
 
 .skill-picture {
-  width: 20rem;
+  width: 35%;
+  float: left;
+  margin-right: 50px;
+
 }
 
 .profile-picture {
